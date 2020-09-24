@@ -14,3 +14,11 @@ https://lazyadmin.nl/home-network/updating-unifi-controller-on-raspberry-pi/
 https://lazyadmin.nl/home-network/installing-unifi-controller-on-a-raspberry-pi-in-5-min/
 
 https://help.ui.com/hc/en-us/articles/220066768-UniFi-How-to-Install-and-Update-via-APT-on-Debian-or-Ubuntu
+
+https://youtu.be/_bM3XqK5JzE
+
+https://youtu.be/6VqeB5eXjq0
+
+https://m.youtube.com/watch?v=b2w1Ywt081o
+
+https://youtu.be/dpoUjnfGbeo
