@@ -61,11 +61,23 @@ Some helpful scripts will be included in the repo if you wish to use them. There
 
 - [Updating Unifi Controller on Raspberry Pi](https://lazyadmin.nl/home-network/updating-unifi-controller-on-raspberry-pi/)
 
-- [UniFi - How to Set Up a UniFi Network Controller](https://help.ui.com/hc/en-us/articles/360012282453-UniFi-How-to-Set-Up-a-UniFi-Network-Controller) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,**<sup>Use advanced setup, and do not login to their servers!</sup>**
+- [UniFi - Set Up a Network Controller](https://help.ui.com/hc/en-us/articles/360012282453-UniFi-How-to-Set-Up-a-UniFi-Network-Controller) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ,**<sup>Use advanced setup, and do not login to their servers!</sup>**
 
-- [UniFi - How to Install and Update via APT on Debian or Ubuntu](https://help.ui.com/hc/en-us/articles/220066768-UniFi-How-to-Install-and-Update-via-APT-on-Debian-or-Ubuntu)
+- [UniFi - Install and Update via APT on Debian](https://help.ui.com/hc/en-us/articles/220066768-UniFi-How-to-Install-and-Update-via-APT-on-Debian-or-Ubuntu)
 
 **TODO:** make unifi network controller setup script
 
-**INFO:**
-https://blog.ktz.me/how-to-adopt-a-unifi-ap-with-a-remote-controller/
+**9.** Adopt your new controller.
+
+**TODO:** show user how to adopt new controller if needed https://blog.ktz.me/how-to-adopt-a-unifi-ap-with-a-remote-controller/
+
+**10.** Backups.
+
+**TODO:** show user how to backup or import backups 
+
+https://docs.netgate.com/pfsense/en/latest/backup/index.html
+https://docs.netgate.com/pfsense/en/latest/backup/autoconfigbackup.html#manually-backing-up
+
+https://help.ui.com/hc/en-us/articles/204952144-UniFi-How-to-Create-and-Restore-a-Backup
+https://help.ui.com/hc/en-us/articles/226218448-UniFi-How-to-Configure-Auto-Backup
+https://help.ui.com/hc/en-us/articles/360012624134-UniFi-Troubleshooting-Issues-with-Controller-Backup-Files
