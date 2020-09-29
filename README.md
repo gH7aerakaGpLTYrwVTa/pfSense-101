@@ -1,8 +1,8 @@
 ## Introduction
 
-This repo is for information about pfsense, netgate, unifi, and other basic information that a user may need to setup a fully functional home network. I will also include some helpful scripts if you wish to use them. There are a lot of videos in this guide, and if you do not like learning via video then turn back now.
+This repo is for information about Pfsense, Netgate, Unifi, and other basics that a user may need to setup a secure home network. It geared towards users with an average skill level, and I will also assume that most want Wifi capability.
 
-I think the average user will really enjoy how powerful this setup can be!
+Some helpful scripts will be included in the repo if you wish to use them. There are a lot of videos in this guide, and if you do not like learning via video then you might want to look elsewhere. I think the average user will really enjoy how powerful this setup can be!
 
 **TODO:** make unifi network controller setup script
 
@@ -22,17 +22,19 @@ I think the average user will really enjoy how powerful this setup can be!
 
 - [2020 Getting started with pfsense 2.4 Tutorial: Network Setup, VLANs, Features & Packages](https://www.youtube.com/watch?v=fsdm5uc_LsU)
 
-**5.** Take some time to consider if you would like to have VLANs setup. I do prefer this so I can wall off all of my junk IOT or Wifi devices that I do not trust on their own "crap network(s)". I do not recommend using Wifi on a secure setup unless you setup VLANs and restrict access using Pfsense firewall rules.
+**5.** If you prefer to have Wifi, as most will, then you need to setup VLANs. Thusly I recommend that you use [UniFi line of products by Ubiquiti](https://www.ui.com/products/#unifi). I love their products and so far have not had any major issues with them. You will need a network switch and perhaps a Wifi access point or two depending on your home. Here are some reccomendations. 
+
+- [Ubiquiti - UniFi® Switch 8](https://www.ui.com/unifi-switching/unifi-switch-8/)
+
+- [Ubiquiti - UniFi® AP AC PRO](https://www.ui.com/unifi/unifi-ap-ac-pro/)
+
+**6.** Take a little more time to research and consider if you would like to have VLANs setup. This is very useful for putting junk IOT or Wifi devices that I do not trust on their own "crap network(s)". I **do not recommend** using Wifi on a secure setup unless you setup VLANs and restrict access using Pfsense firewall rules.
 
 - [How To Setup VLANS With pfsense & UniFI. Also how to build for firewall rules for VLANS in pfsense](https://www.youtube.com/watch?v=b2w1Ywt081o)
 
 - [Whate are Virtual LANs (VLANs)?](https://www.youtube.com/watch?v=dpoUjnfGbeo)
 
-**6.** If you prefer Wifi + VLANs setup, then I recommend that you utilize [UniFi line of products by Ubiquiti](https://www.ui.com/products/#unifi). You will probably need a network switch and perhaps a Wifi access point or two. Here are some reccomendations.
 
-- [Ubiquiti - UniFi® Switch 8](https://www.ui.com/unifi-switching/unifi-switch-8/)
-
-- [Ubiquiti - UniFi® AP AC PRO](https://www.ui.com/unifi/unifi-ap-ac-pro/)
 
 
 **INFO:**
