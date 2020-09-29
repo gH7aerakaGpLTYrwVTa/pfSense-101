@@ -6,9 +6,10 @@
 
 1. Get familiar with the Netgate SG-1100 using these videos below or other resources you prefer. I have included video dates to make users aware that some features that appear may have updated, changed, or look different in some way. Keep in mind the age of any video and do your own research!
 
-Netgate pfsense SG 1100 Review & Speed Tests - https://youtu.be/_bM3XqK5JzE - Feb 17, 2019
+- [Netgate pfsense SG 1100 Review & Speed Tests](https://youtu.be/_bM3XqK5JzE) - Feb 17, 2019 
 
-The Netgate pfsense SG-1100 Still A Good Home Router? What About Gaming? - https://youtu.be/6VqeB5eXjq0 - Sep 13, 2019
+
+- [The Netgate pfsense SG-1100 Still A Good Home Router? What About Gaming?](https://youtu.be/6VqeB5eXjq0) - Sep 13, 2019
 
 2. You can also do a DIY Pfsense build if you have the proper hardware on hand and feel comfortable doing so. Take a look at the [Netgate SG-3100](https://www.youtube.com/watch?v=dbSUdDyfW0M) if you need something a little bit more powerful.
 
