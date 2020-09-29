@@ -1,8 +1,10 @@
-# pfsense101
+## Introduction
 
-**TODO:** gather pfsense setup procedures, videos, etc.
+This repo is for information about pfsense, netgate, unifi, and other basic information that a user may need to setup their home network. I will also include some helpful scripts if you wish to use them. There are a lot of videos in this guide, and if you do not like learning via video then turn back now. 
 
 **TODO:** make unifi network controller setup script
+
+## Let's Get Started
 
 **1.** Get familiar with the Netgate SG-1100 using these videos below or other resources you prefer. I have included video dates to make users aware that some features that appear may have updated, changed, or look different in some way. Keep in mind the age of any video and do your own research!
 
@@ -14,9 +16,21 @@
 
 **3.** If you are new to networking stuff or need a refresher, then see the free courses from [Udemy](https://www.udemy.com/course/introduction-to-networking-for-complete-beginners/) or from [Edx](https://www.edx.org/course/introduction-to-networking). They are decently short and easy.
 
-**4.** Now  get familiar with Pfsense, Networks, and Features. 
+**4.** Now get familiar with Pfsense, Networks, and Features. 
 
 - [2020 Getting started with pfsense 2.4 Tutorial: Network Setup, VLANs, Features & Packages](https://www.youtube.com/watch?v=fsdm5uc_LsU)
+
+**5.** Take some time to consider if you would like to have VLANs setup. I do prefer this so I can wall off all of my junk IOT devices on their own "crap network".
+
+- [How To Setup VLANS With pfsense & UniFI. Also how to build for firewall rules for VLANS in pfsense](https://www.youtube.com/watch?v=b2w1Ywt081o)
+
+- [Whate are Virtual LANs (VLANs)?](https://www.youtube.com/watch?v=dpoUjnfGbeo)
+
+**5.** Once your Pfsense box is setup, you may want to consider setting up VLANs by utilizing a network switch.
+
+
+
+
 
 **INFO:**
 https://blog.ktz.me/how-to-adopt-a-unifi-ap-with-a-remote-controller/
