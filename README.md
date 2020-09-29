@@ -59,7 +59,9 @@ Take a little more time to research and consider if you would like to have VLANs
 
 ## Setup
 
-Go ahead and deploy your pfSense box, you deserve it after all that research! After setting up pfSense to your liking, it is time to get your UniFi products online and connected to their controller. I prefer to use a Raspberry Pi 3 or better to run a dedicated UniFi controller 24/7, rather than having the software on a desktop. It is ok to run the controller on a desktop for a little while of course, and you can simply swap to the Pi once ready.
+**TODO:** make unifi network controller setup script
+
+Go ahead and deploy your pfSense box, you deserve it after all that research! After setting up pfSense to your liking, it is time to get your UniFi products online and connected to their controller. I prefer to use a Raspberry Pi 3 or better to run a dedicated UniFi controller 24/7, rather than having the software on a desktop. It is ok to run the controller on a desktop for a little while of course, whatever you prefer for setting up, then  simply swap to the Pi once ready.
 
 - [Install Unifi Controller On Raspberry Pi](https://lazyadmin.nl/home-network/installing-unifi-controller-on-a-raspberry-pi-in-5-min/)
 
@@ -69,17 +71,22 @@ Go ahead and deploy your pfSense box, you deserve it after all that research! Af
 
 - [UniFi - Install and Update via APT on Debian](https://help.ui.com/hc/en-us/articles/220066768-UniFi-How-to-Install-and-Update-via-APT-on-Debian-or-Ubuntu)
 
-**TODO:** make unifi network controller setup script
-
-Make sure to [adopt the new Unifi controller](https://blog.ktz.me/how-to-adopt-a-unifi-ap-with-a-remote-controller/) if you set it up on a Raspberry Pi. This is very important! Also, take a look at this info on how to [SSH remote login to your Unifi Switch or Wifi APs](https://help.ui.com/hc/en-us/articles/218850057-Intro-to-Networking-How-to-Establish-a-Connection-Using-SSH#4).
+Make sure to [adopt the new UniFi controller](https://blog.ktz.me/how-to-adopt-a-unifi-ap-with-a-remote-controller/) if you set it up on a Raspberry Pi. This is very important! Also, take a look at this info on how to [SSH remote login to your UniFi Switch or Wifi APs](https://help.ui.com/hc/en-us/articles/218850057-Intro-to-Networking-How-to-Establish-a-Connection-Using-SSH#4).
 
 ## Backups
 
 **TODO:** show user how to backup or import backups 
 
+pfSense:
+
 https://docs.netgate.com/pfsense/en/latest/backup/index.html
+
 https://docs.netgate.com/pfsense/en/latest/backup/autoconfigbackup.html#manually-backing-up
 
+UniFi:
+
 https://help.ui.com/hc/en-us/articles/204952144-UniFi-How-to-Create-and-Restore-a-Backup
+
 https://help.ui.com/hc/en-us/articles/226218448-UniFi-How-to-Configure-Auto-Backup
+
 https://help.ui.com/hc/en-us/articles/360012624134-UniFi-Troubleshooting-Issues-with-Controller-Backup-Files
