@@ -1,12 +1,12 @@
 # pfSense 101
 
 # Table of Contents
-* [**1. Introduction**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense101/blob/master/README.md#introduction)
-* [**1. Main Documentation Sources**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense101/blob/master/README.md#main-documentation-sources)
-* [**2. Preparation**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense101/blob/master/README.md#preparation)
-* [**3. Get Familiar**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense101/blob/master/README.md#get-famliar) 
-* [**4. Setup**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense101/blob/master/README.md#setup)
-* [**5. Backups**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense101/blob/master/README.md#backups)
+* [**1. Introduction**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense-101/blob/master/README.md#introduction)
+* [**1. Main Documentation Sources**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense-101/blob/master/README.md#main-documentation-sources)
+* [**2. Preparation**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense-101/blob/master/README.md#preparation)
+* [**3. Get Familiar**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense-101/blob/master/README.md#get-familiar) 
+* [**4. Setup**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense-101/blob/master/README.md#setup)
+* [**5. Backups**](https://github.com/gH7aerakaGpLTYrwVTa/pfSense-101/blob/master/README.md#backups)
 
 ## Introduction
 
