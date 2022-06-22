@@ -78,6 +78,8 @@ Make sure to [adopt the new UniFi controller](https://blog.ktz.me/how-to-adopt-a
 
 **TODO:** show user how to backup or import backups 
 
+**TODO2:** https://community.ui.com/questions/UniFi-Installation-Scripts-or-UniFi-Easy-Update-Script-or-UniFi-Lets-Encrypt-or-Ubuntu-16-04-18-04-/ccbc7530-dd61-40a7-82ec-22b17f027776
+
 pfSense:
 
 https://docs.netgate.com/pfsense/en/latest/backup/index.html
